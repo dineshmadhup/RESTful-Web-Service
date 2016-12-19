@@ -30,6 +30,13 @@ public class ProductResource {
 		return productService.getAllProducts();
 	}
 	
+	@GET
+	@Path("/{productId}")
+	public Product getproduct(@PathParam("productId") long pid) {
+		return productService.getProduct(pid);
+		
+	}
+	
 	@POST
 	//@Consumes(MediaType.APPLICATION_JSON)
 	//@Produces(MediaType.APPLICATION_JSON)
@@ -49,6 +56,7 @@ public class ProductResource {
 	public Product deleteProduct(@PathParam("productId") long pid) {
 		return productService.removeProduct(pid);
 	}
+
 	
 
 
