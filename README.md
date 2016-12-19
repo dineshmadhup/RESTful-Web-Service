@@ -1,12 +1,6 @@
 # RESTful-Web-Service
 Building a RESTful Web Service with Java using JAX-RS and Jersey
 
-Description:
-
-# Welcome to the RESTful-Web-Service wiki!
-
-## Table of Contents
-
 [Module 1: Setup a Development Environment and get ready to write code.](https://github.com/dineshmadhup/RESTful-Web-Service/wiki/Module--1:-Setup-a-Development-Environment)
 
 [Module 2: RESTful Web Service Welcome Example](https://github.com/dineshmadhup/RESTful-Web-Service/wiki/Module-2:-Jersey-Welcome-Example)
