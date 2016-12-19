@@ -13,6 +13,3 @@ Building a RESTful Web Service with Java using JAX-RS and Jersey
 
 [Module 6: CREATE, READ, Update and DELETE (CRUD) Operation in RESTful Web Service.](https://github.com/dineshmadhup/RESTful-Web-Service/wiki/Module-6:-product-Service-RESTful-Web-Service:-CRUD-Operation)
 
-&nbsp;
-
-[Download: Complete Source Code](https://github.com/dineshmadhup/RESTful-Web-Service)
